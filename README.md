@@ -1,2 +1,2 @@
 # hello_world
-Just another repository
+Just trying out some basic editing commands
